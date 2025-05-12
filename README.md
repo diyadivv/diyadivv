@@ -61,7 +61,7 @@ Bhimavaram, India
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect!!
 
 - 📧 Email: divya.garapati11@gmail.com
 - 🌐 [Portfolio](https://v0-portfolio-clone-request-two.vercel.app/)
